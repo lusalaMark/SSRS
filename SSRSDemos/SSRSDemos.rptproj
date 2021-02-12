@@ -57,14 +57,26 @@
     <DataSource Include="NortWindDataSource.rds" />
   </ItemGroup>
   <ItemGroup>
+    <Report Include="01. ListOfCustomers.rdl" />
     <Report Include="02.ReportManuallyDemo.rdl" />
     <Report Include="03_SharedDataSourcesAndDatasetsDem.rdl" />
     <Report Include="05 MailMegeDemoo.rdl" />
     <Report Include="06.EmbeddedAndExternalImagesDemo.rdl" />
     <Report Include="07.DataBoundImageDemo.rdl" />
     <Report Include="08 ExpressionsDemo.rdl" />
-    <Report Include="ListDataRegionDemo1.rdl" />
-    <Report Include="ListOfCustomers.rdl" />
+    <Report Include="09_ GroupThroughWizzardDemo.rdl" />
+    <Report Include="10 _ GroupingManuallyDemo.rdl" />
+    <Report Include="10_1_WorkingWithBuiltInFields.rdl" />
+    <Report Include="11_CreatingRunningTotal.rdl" />
+    <Report Include="12_ParameterizedReportDemo.rdl" />
+    <Report Include="13_DropDownParameterDemo.rdl" />
+    <Report Include="14_MultiValuedParameters.rdl" />
+    <Report Include="15_DateTypeParameterisedDemo.rdl" />
+    <Report Include="16_UnboundParameterDemo.rdl" />
+    <Report Include="17_ParameterizedDemo1.rdl" />
+    <Report Include="18_ParameterizedDemo2.rdl" />
+    <Report Include="19_CascadingParametersDemo.rdl" />
+    <Report Include="20_BooleanTypesParametersDemo.rdl" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Reporting Services\Microsoft.ReportingServices.MSBuilder.targets" />
 </Project>
