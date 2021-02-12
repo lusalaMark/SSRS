@@ -84,6 +84,12 @@
     <Report Include="25_ConditionalFormattingDemo.rdl" />
     <Report Include="26_DocumentMapDemo.rdl" />
     <Report Include="27_RepeatingAndFreeezingColumnHeaders.rdl" />
+    <Report Include="28_GotoBookmapAction.rdl" />
+    <Report Include="29_1_GoToReportURLDemo.rdl" />
+    <Report Include="29_GoToReportActionDemo.rdl" />
+    <Report Include="30_UsingEmbeddedHTMLDemo.rdl" />
+    <Report Include="31_MatrixUsingWizardDemo.rdl" />
+    <Report Include="32_AddingMultipleRowGroupsDemo.rdl" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Reporting Services\Microsoft.ReportingServices.MSBuilder.targets" />
 </Project>
