@@ -77,6 +77,13 @@
     <Report Include="18_ParameterizedDemo2.rdl" />
     <Report Include="19_CascadingParametersDemo.rdl" />
     <Report Include="20_BooleanTypesParametersDemo.rdl" />
+    <Report Include="21_InteractiveSortingDemo1.rdl" />
+    <Report Include="22_InteractiveSortingWithGroupsInPlace.rdl" />
+    <Report Include="23_DrillDownReporrtsDemo.rdl" />
+    <Report Include="24_DynamicColumnVusubilityDemo.rdl" />
+    <Report Include="25_ConditionalFormattingDemo.rdl" />
+    <Report Include="26_DocumentMapDemo.rdl" />
+    <Report Include="27_RepeatingAndFreeezingColumnHeaders.rdl" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Reporting Services\Microsoft.ReportingServices.MSBuilder.targets" />
 </Project>
