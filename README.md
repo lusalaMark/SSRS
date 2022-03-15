@@ -1,2 +1,2 @@
 # SSRS
-This repo contains Microsoft SQL Server Reporting Services 
+For tips on SSRS Report Building 
